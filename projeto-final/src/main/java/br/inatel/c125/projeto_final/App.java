@@ -12,13 +12,13 @@ import java.nio.file.Paths;
 public class App {
 	public static void main(String[] args) {
 		List <Farmacia> farmacias;
-		Path arquivo = Paths.get("farmacia.txt");
-		LeArquivo leitura = new LeArquivo();
 
-		farmacias = leitura.preencheFarmacias(arquivo);
+		Path arquivo = Paths.get("projeto-final/farmacia.txt");
 
+		farmacias = LeArquivo.preencheFarmacias(arquivo);
+		/*
 		for (Farmacia farmacia : farmacias) {
 			farmacia.mostraProdutos();
-		}
+		}*/
 	}
 }
