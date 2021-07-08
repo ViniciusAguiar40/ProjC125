@@ -1,6 +1,6 @@
 package br.inatel.c125.projeto_final;
 
-import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertTrue;
@@ -11,34 +11,32 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 
+import org.junit.Before;
 import org.junit.Test;
 
 public class TesteArquivo {
-    public Path arquivo;
-    // TODO
-    
+    private Path arquivo;
+    @Before
+    public void init() {
+        arquivo = Paths.get("farmacia.txt");
+    }
     @Test
     public void verificaLinhaNaFormatacaoCorreta(){
-        arquivo = Paths.get("projeto-final/farmacia.txt");
         try{
             List <String> Lista = Files.readAllLines(arquivo);
             assertNotNull(Lista);
             for (String prod : Lista) {
                 String leitura[]= prod.split(";");
                 
-                // Todos tem no minimo 5 posicoes
-                for(int i = 0;i < 5; i++)
-                    assertNotNull(leitura[i]);
+                assertTrue(leitura.length >= 5);
                 // Tem que ser tipo R, U ou C    
-				assertTrue((leitura[1] == "R")||(leitura[1] == "U")||(leitura[1] == "C"));
+				assertTrue((leitura[1].equals("R"))||(leitura[1].equals("U"))||(leitura[1].equals("C")));
                 
-                // Se for tipo R ou U -> 6 posicoes
-                if(leitura[1] == "R" || leitura[1] == "C"){
-                    assertNotNull(leitura[5]);
-                    assertNull(leitura[6]);
-                }
-                else // Se for tipo C -> 5 posicoes
-                    assertNull(leitura[5]);
+                // Se for tipo R ou C -> 6 posicoes
+                if(leitura[1].equals("R") || leitura[1].equals("C"))
+                    assertEquals(6, leitura.length);
+                else // Se for tipo U -> 5 posicoes
+                    assertEquals(5, leitura.length);
                 
                 // leitura[2] tem que ser um numero
                 // se nao for um numero, uma excecao sera lancada   
@@ -46,12 +44,12 @@ public class TesteArquivo {
                     Float.parseFloat(leitura[2]);
                 }    
                 catch(NumberFormatException e){
-                    assertFalse(true);
+                    assertTrue(false);
                 }
             }
         }
         catch(IOException e){
-            assertFalse(true);
+            assertTrue(false);
         }
     }
 }
