@@ -22,11 +22,14 @@ public class Farmacia {
         }
     }
 
-    public void procuraProduto(String nomeProduto){
+    // Retorna uma lista com os produtos encontrados de mesmo nome
+    public List<Produto> procuraProduto(String nomeProduto){
+        List<Produto> produtosEncontrados = new ArrayList<Produto>();
         for (Produto produto : produtos) {
             if(produto.getNome().equals(nomeProduto))
-                produto.mostraInfo();
+                produtosEncontrados.add(produto);
         }
+        return produtosEncontrados;
     }
 
     // GETTERS & SETTERS
