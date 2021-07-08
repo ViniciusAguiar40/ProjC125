@@ -16,7 +16,7 @@ public class App {
 
 		ListaFarmacias farmacias = new ListaFarmacias(LeArquivo.preencheFarmacias(arquivo)); // Lendo o arquivo e criando a lista
 
-		int opcao; // usado no menu
+		int opcao=0; // usado no menu
 		Scanner scanner= new Scanner(System.in); // Entrada
 		do{
 			try {
