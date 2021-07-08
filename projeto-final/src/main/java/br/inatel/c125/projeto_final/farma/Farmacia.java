@@ -22,6 +22,13 @@ public class Farmacia {
         }
     }
 
+    public void procuraProduto(String nomeProduto){
+        for (Produto produto : produtos) {
+            if(produto.getNome().equals(nomeProduto))
+                produto.mostraInfo();
+        }
+    }
+
     // GETTERS & SETTERS
     public String getNome() {
         return this.nome;
