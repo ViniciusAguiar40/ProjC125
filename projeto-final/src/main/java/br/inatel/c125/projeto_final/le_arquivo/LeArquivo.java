@@ -34,13 +34,23 @@ public class LeArquivo {
 				{
 					novoProduto = new Utensilio(leitura[3], Float.parseFloat(leitura[2]), leitura[4]);
 				}
-				else if(leitura[1]=="C")
+				else // leitura[1]=="C"
 				{
 					novoProduto = new Cosmetico(leitura[3], Float.parseFloat(leitura[2]), leitura[4], leitura[5]);
 				}
-				//mapa[aux.getNome()];
+				
+				if(!mapa.containsKey(aux.getNome())) // Se eu não tenho a chave "farmacia tal"
+					mapa.put(aux.getNome(), new ArrayList<>()); // Crio a "Farmacia tal"
 
+				mapa.get(aux.getNome()).add(novoProduto);
             }
+
+			// Aqui eu já separei as farmacias em um mapa, vou redistribuir numa lista
+			for (String chave : mapa.keySet()) {
+				aux= new Farmacia(chave);
+				aux.setProdutos(mapa.get(chave));
+				l.add(aux);
+			}
         }
         catch(IOException e){
             System.out.println("Erro na leitura: " + e.getMessage());
