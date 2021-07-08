@@ -1,41 +1,41 @@
 Americanas;R;9.88;Dipirona;EMS;Vermelha
-Americanas;U;5.95;Estetoscopio;Littman;
-Drogasil;U;3.23;Medidor de pressao;Littman;
+Americanas;U;5.95;Estetoscopio;Littman
+Drogasil;U;3.23;Medidor de pressao;Littman
 Ultrafarma;C;3.40;Batom;Avon;simples
 Ultrafarma;R;5.67;Esquizofrenol;Neo Quimica;Preta
-Ultrafarma;U;7.10;Estetoscopio;Spirit;
+Ultrafarma;U;7.10;Estetoscopio;Spirit
 Americanas;C;2.94;Batom;Natura;simples
 Americanas;R;5.31;Esquizofrenol;Teuto;Preta
 Americanas;R;7.77;Dipirona;EMS;Vermelha
 Americanas;R;9.17;Dipirona;EMS;Vermelha
-Americanas;U;2.30;Seringa;Premium;
-Americanas;U;6.96;Estetoscopio;Littman;
+Americanas;U;2.30;Seringa;Premium
+Americanas;U;6.96;Estetoscopio;Littman
 Drogasil;C;4.76;Xampu;Natura;simples
-Drogasil;U;1.79;Estetoscopio;Premium;
-Drogasil;U;2.41;Seringa;Littman;
+Drogasil;U;1.79;Estetoscopio;Premium
+Drogasil;U;2.41;Seringa;Littman
 Americanas;C;2.52;Xampu;Jequiti;restaurador
 Americanas;R;4.25;Esquizofrenol;Teuto;Preta
-Americanas;U;4.16;Medidor de pressao;Premium;
-Americanas;U;9.57;Estetoscopio;Spirit;
+Americanas;U;4.16;Medidor de pressao;Premium
+Americanas;U;9.57;Estetoscopio;Spirit
 Drogasil;C;1.26;Xampu;Avon;simples
 Drogasil;C;9.20;Desodorante;Jequiti;simples
-Drogasil;U;4.50;Medidor de pressao;Littman;
-Drogasil;U;8.78;Estetoscopio;Littman;
+Drogasil;U;4.50;Medidor de pressao;Littman
+Drogasil;U;8.78;Estetoscopio;Littman
 Ultrafarma;C;8.9;Xampu;Natura;simples
 Ultrafarma;R;9.42;Paracetamol;Teuto;MIP
 Americanas;C;5.20;Desodorante;Avon;restaurador
-Americanas;U;8.81;Estetoscopio;Premium;
+Americanas;U;8.81;Estetoscopio;Premium
 Drogasil;R;2.2;Paracetamol;Teuto;MIP
 Drogasil;R;9.2;Dipirona;Neo Quimica;Vermelha
-Drogasil;U;3.65;Medidor de pressao;Spirit;
-Drogasil;U;8.20;Seringa;Spirit;
+Drogasil;U;3.65;Medidor de pressao;Spirit
+Drogasil;U;8.20;Seringa;Spirit
 Ultrafarma;C;2.35;Batom;Avon;restaurador
 Americanas;C;5.6;Desodorante;Natura;restaurador
 Americanas;R;8.1;Dipirona;Teuto;Vermelha
-Americanas;U;3.36;Seringa;Premium;
+Americanas;U;3.36;Seringa;Premium
 Drogasil;C;8.74;Batom;Jequiti;simples
 Drogasil;R;2.19;Esquizofrenol;Neo Quimica;Preta
-Drogasil;U;5.96;Estetoscopio;Premium;
+Drogasil;U;5.96;Estetoscopio;Premium
 Ultrafarma;C;9.2;Batom;Avon;anti-bacteriano
 Ultrafarma;R;6.80;Paracetamol;Neo Quimica;MIP
 Drogasil;C;9.11;Xampu;Natura;simples
@@ -43,8 +43,8 @@ Ultrafarma;R;4.99;Paracetamol;EMS;MIP
 Americanas;C;0.63;Desodorante;Natura;anti-bacteriano
 Drogasil;C;6.64;Batom;Natura;restaurador
 Ultrafarma;C;7.32;Batom;Jequiti;simples
-Americanas;U;3.24;Medidor de pressao;Spirit;
-Drogasil;U;1.32;Seringa;Littman;
+Americanas;U;3.24;Medidor de pressao;Spirit
+Drogasil;U;1.32;Seringa;Littman
 Ultrafarma;C;4.77;Batom;Natura;anti-bacteriano
 Ultrafarma;R;5.71;Dipirona;EMS;Vermelha
 Ultrafarma;R;6.54;Paracetamol;EMS;MIP
@@ -52,47 +52,47 @@ Americanas;R;9.53;Dipirona;Teuto;Vermelha
 Ultrafarma;C;4.7;Xampu;Avon;simples
 Drogasil;R;5.78;Dipirona;Neo Quimica;Vermelha
 Drogasil;R;8.37;Dipirona;Neo Quimica;Vermelha
-Drogasil;U;0.97;Seringa;Spirit;
+Drogasil;U;0.97;Seringa;Spirit
 Ultrafarma;C;8.65;Desodorante;Natura;restaurador
 Ultrafarma;R;2.10;Esquizofrenol;Teuto;Preta
 Americanas;C;4.86;Xampu;Jequiti;restaurador
 Americanas;R;6.89;Esquizofrenol;EMS;Preta
-Drogasil;U;9.37;Medidor de pressao;Spirit;
-Ultrafarma;U;5.37;Estetoscopio;Spirit;
-Ultrafarma;U;7.35;Estetoscopio;Spirit;
+Drogasil;U;9.37;Medidor de pressao;Spirit
+Ultrafarma;U;5.37;Estetoscopio;Spirit
+Ultrafarma;U;7.35;Estetoscopio;Spirit
 Drogasil;R;4.89;Dipirona;EMS;Vermelha
-Drogasil;U;0.20;Estetoscopio;Spirit;
-Ultrafarma;U;3.67;Seringa;Littman;
+Drogasil;U;0.20;Estetoscopio;Spirit
+Ultrafarma;U;3.67;Seringa;Littman
 Americanas;R;4.80;Esquizofrenol;EMS;Preta
-Americanas;U;0.58;Estetoscopio;Spirit;
-Americanas;U;7.69;Medidor de pressao;Littman;
-Drogasil;U;6.10;Medidor de pressao;Premium;
-Americanas;U;4.66;Medidor de pressao;Spirit;
+Americanas;U;0.58;Estetoscopio;Spirit
+Americanas;U;7.69;Medidor de pressao;Littman
+Drogasil;U;6.10;Medidor de pressao;Premium
+Americanas;U;4.66;Medidor de pressao;Spirit
 Ultrafarma;C;8.13;Batom;Natura;anti-bacteriano
 Drogasil;C;0.84;Desodorante;Jequiti;anti-bacteriano
-Americanas;U;0.91;Medidor de pressao;Premium;
+Americanas;U;0.91;Medidor de pressao;Premium
 Ultrafarma;R;5.57;Dipirona;Neo Quimica;Vermelha
-Ultrafarma;U;1.69;Estetoscopio;Littman;
-Ultrafarma;U;6.78;Medidor de pressao;Littman;
+Ultrafarma;U;1.69;Estetoscopio;Littman
+Ultrafarma;U;6.78;Medidor de pressao;Littman
 Americanas;C;5.85;Batom;Avon;restaurador
 Drogasil;C;3.60;Xampu;Natura;simples
-Ultrafarma;U;4.27;Medidor de pressao;Littman;
+Ultrafarma;U;4.27;Medidor de pressao;Littman
 Drogasil;C;6.92;Desodorante;Jequiti;restaurador
-Drogasil;U;5.69;Estetoscopio;Premium;
+Drogasil;U;5.69;Estetoscopio;Premium
 Ultrafarma;C;3.74;Xampu;Natura;restaurador
-Americanas;U;8.35;Medidor de pressao;Premium;
+Americanas;U;8.35;Medidor de pressao;Premium
 Americanas;C;7.29;Batom;Jequiti;anti-bacteriano
 Drogasil;C;1.55;Xampu;Avon;simples
-Ultrafarma;U;5.34;Medidor de pressao;Spirit;
+Ultrafarma;U;5.34;Medidor de pressao;Spirit
 Ultrafarma;R;7.77;Dipirona;Teuto;Vermelha
 Americanas;R;2.7;Esquizofrenol;EMS;Preta
-Drogasil;U;7.99;Estetoscopio;Premium;
-Ultrafarma;U;7.29;Seringa;Premium;
+Drogasil;U;7.99;Estetoscopio;Premium
+Ultrafarma;U;7.29;Seringa;Premium
 Americanas;C;5.83;Xampu;Jequiti;simples
 Drogasil;C;1.64;Desodorante;Natura;simples
-Ultrafarma;U;4.2;Seringa;Spirit;
+Ultrafarma;U;4.2;Seringa;Spirit
 Americanas;C;5.68;Batom;Natura;restaurador
-Ultrafarma;U;8.3;Seringa;Premium;
+Ultrafarma;U;8.3;Seringa;Premium
 Americanas;C;0.54;Batom;Jequiti;restaurador
 Americanas;R;7.67;Esquizofrenol;EMS;Preta
 Americanas;R;1.47;Esquizofrenol;Neo Quimica;Preta

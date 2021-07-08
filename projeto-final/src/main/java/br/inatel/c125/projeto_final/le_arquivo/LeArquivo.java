@@ -22,19 +22,19 @@ public class LeArquivo {
         try{
             List <String> Lista = Files.readAllLines(arquivo);
             for (String prod : Lista) {
-                System.out.println(prod);
+                //System.out.println(prod);
 				String leitura[]= prod.split(";");
 				aux = new Farmacia(leitura[0]);
 				Produto novoProduto;
-				if(leitura[1]=="R") // Se for remedio
+				if(leitura[1].equals("R")) // Se for remedio
 				{
 					novoProduto = new Remedio(leitura[3], Float.parseFloat(leitura[2]),leitura[4], leitura[5]);
 				}
-				else if(leitura[1]=="U")
+				else if(leitura[1].equals("U"))
 				{
 					novoProduto = new Utensilio(leitura[3], Float.parseFloat(leitura[2]), leitura[4]);
 				}
-				else // leitura[1]=="C"
+				else // leitura[1] = "C"
 				{
 					novoProduto = new Cosmetico(leitura[3], Float.parseFloat(leitura[2]), leitura[4], leitura[5]);
 				}

@@ -16,9 +16,9 @@ public class App {
 		Path arquivo = Paths.get("projeto-final/farmacia.txt");
 
 		farmacias = LeArquivo.preencheFarmacias(arquivo);
-		/*
+		
 		for (Farmacia farmacia : farmacias) {
 			farmacia.mostraProdutos();
-		}*/
+		}
 	}
 }
