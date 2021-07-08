@@ -4,9 +4,10 @@ public class Cosmetico extends Produto{
     private String marca;
     private String tipo;
 
-    public Cosmetico(String nome, float preco) {
+    public Cosmetico(String nome, float preco,String marca, String tipo) {
         super(nome, preco);
-        //TODO Auto-generated constructor stub
+        this.marca=marca;
+        this.tipo=tipo;
     }
 
     @Override

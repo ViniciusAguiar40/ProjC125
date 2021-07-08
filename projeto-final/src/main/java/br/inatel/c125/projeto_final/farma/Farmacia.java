@@ -22,4 +22,22 @@ public class Farmacia {
         }
     }
 
+    // GETTERS & SETTERS
+    public String getNome() {
+        return this.nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public List<Produto> getProdutos() {
+        return this.produtos;
+    }
+
+    public void setProdutos(List<Produto> produtos) {
+        this.produtos = produtos;
+    }
+
+
 }

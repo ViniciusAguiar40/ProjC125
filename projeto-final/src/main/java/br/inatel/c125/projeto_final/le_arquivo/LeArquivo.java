@@ -9,16 +9,37 @@ import java.util.List;
 import java.util.Map;
 
 import br.inatel.c125.projeto_final.farma.Farmacia;
+import br.inatel.c125.projeto_final.produtos.Cosmetico;
 import br.inatel.c125.projeto_final.produtos.Produto;
+import br.inatel.c125.projeto_final.produtos.Remedio;
+import br.inatel.c125.projeto_final.produtos.Utensilio;
 
 public class LeArquivo {
     public static List <Farmacia> preencheFarmacias(Path arquivo){
         List <Farmacia> l = new ArrayList<Farmacia>();
+		Farmacia aux;
         Map<String,List<Produto> > mapa = new HashMap<>();
         try{
             List <String> Lista = Files.readAllLines(arquivo);
             for (String prod : Lista) {
                 System.out.println(prod);
+				String leitura[]= prod.split(";");
+				aux = new Farmacia(leitura[0]);
+				Produto novoProduto;
+				if(leitura[1]=="R") // Se for remedio
+				{
+					novoProduto = new Remedio(leitura[3], Float.parseFloat(leitura[2]),leitura[4], leitura[5]);
+				}
+				else if(leitura[1]=="U")
+				{
+					novoProduto = new Utensilio(leitura[3], Float.parseFloat(leitura[2]), leitura[4]);
+				}
+				else if(leitura[1]=="C")
+				{
+					novoProduto = new Cosmetico(leitura[3], Float.parseFloat(leitura[2]), leitura[4], leitura[5]);
+				}
+				//mapa[aux.getNome()];
+
             }
         }
         catch(IOException e){
