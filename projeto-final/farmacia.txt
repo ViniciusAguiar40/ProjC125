@@ -1,100 +1,100 @@
-Americanas;R;9.88;Dipirona;EMS;Vermelha
-Americanas;U;5.95;Estetoscopio;Littman
-Drogasil;U;3.23;Medidor de pressao;Littman
-Ultrafarma;C;3.40;Batom;Avon;simples
-Ultrafarma;R;5.67;Esquizofrenol;Neo Quimica;Preta
-Ultrafarma;U;7.10;Estetoscopio;Spirit
-Americanas;C;2.94;Batom;Natura;simples
-Americanas;R;5.31;Esquizofrenol;Teuto;Preta
-Americanas;R;7.77;Dipirona;EMS;Vermelha
-Americanas;R;9.17;Dipirona;EMS;Vermelha
-Americanas;U;2.30;Seringa;Premium
-Americanas;U;6.96;Estetoscopio;Littman
-Drogasil;C;4.76;Xampu;Natura;simples
-Drogasil;U;1.79;Estetoscopio;Premium
-Drogasil;U;2.41;Seringa;Littman
-Americanas;C;2.52;Xampu;Jequiti;restaurador
-Americanas;R;4.25;Esquizofrenol;Teuto;Preta
-Americanas;U;4.16;Medidor de pressao;Premium
-Americanas;U;9.57;Estetoscopio;Spirit
-Drogasil;C;1.26;Xampu;Avon;simples
-Drogasil;C;9.20;Desodorante;Jequiti;simples
-Drogasil;U;4.50;Medidor de pressao;Littman
-Drogasil;U;8.78;Estetoscopio;Littman
-Ultrafarma;C;8.9;Xampu;Natura;simples
-Ultrafarma;R;9.42;Paracetamol;Teuto;MIP
-Americanas;C;5.20;Desodorante;Avon;restaurador
-Americanas;U;8.81;Estetoscopio;Premium
-Drogasil;R;2.2;Paracetamol;Teuto;MIP
-Drogasil;R;9.2;Dipirona;Neo Quimica;Vermelha
-Drogasil;U;3.65;Medidor de pressao;Spirit
-Drogasil;U;8.20;Seringa;Spirit
-Ultrafarma;C;2.35;Batom;Avon;restaurador
-Americanas;C;5.6;Desodorante;Natura;restaurador
-Americanas;R;8.1;Dipirona;Teuto;Vermelha
-Americanas;U;3.36;Seringa;Premium
-Drogasil;C;8.74;Batom;Jequiti;simples
-Drogasil;R;2.19;Esquizofrenol;Neo Quimica;Preta
-Drogasil;U;5.96;Estetoscopio;Premium
-Ultrafarma;C;9.2;Batom;Avon;anti-bacteriano
-Ultrafarma;R;6.80;Paracetamol;Neo Quimica;MIP
-Drogasil;C;9.11;Xampu;Natura;simples
-Ultrafarma;R;4.99;Paracetamol;EMS;MIP
-Americanas;C;0.63;Desodorante;Natura;anti-bacteriano
-Drogasil;C;6.64;Batom;Natura;restaurador
-Ultrafarma;C;7.32;Batom;Jequiti;simples
-Americanas;U;3.24;Medidor de pressao;Spirit
-Drogasil;U;1.32;Seringa;Littman
-Ultrafarma;C;4.77;Batom;Natura;anti-bacteriano
-Ultrafarma;R;5.71;Dipirona;EMS;Vermelha
-Ultrafarma;R;6.54;Paracetamol;EMS;MIP
-Americanas;R;9.53;Dipirona;Teuto;Vermelha
-Ultrafarma;C;4.7;Xampu;Avon;simples
-Drogasil;R;5.78;Dipirona;Neo Quimica;Vermelha
-Drogasil;R;8.37;Dipirona;Neo Quimica;Vermelha
-Drogasil;U;0.97;Seringa;Spirit
-Ultrafarma;C;8.65;Desodorante;Natura;restaurador
-Ultrafarma;R;2.10;Esquizofrenol;Teuto;Preta
-Americanas;C;4.86;Xampu;Jequiti;restaurador
-Americanas;R;6.89;Esquizofrenol;EMS;Preta
-Drogasil;U;9.37;Medidor de pressao;Spirit
-Ultrafarma;U;5.37;Estetoscopio;Spirit
-Ultrafarma;U;7.35;Estetoscopio;Spirit
-Drogasil;R;4.89;Dipirona;EMS;Vermelha
-Drogasil;U;0.20;Estetoscopio;Spirit
-Ultrafarma;U;3.67;Seringa;Littman
-Americanas;R;4.80;Esquizofrenol;EMS;Preta
-Americanas;U;0.58;Estetoscopio;Spirit
-Americanas;U;7.69;Medidor de pressao;Littman
-Drogasil;U;6.10;Medidor de pressao;Premium
-Americanas;U;4.66;Medidor de pressao;Spirit
-Ultrafarma;C;8.13;Batom;Natura;anti-bacteriano
-Drogasil;C;0.84;Desodorante;Jequiti;anti-bacteriano
-Americanas;U;0.91;Medidor de pressao;Premium
-Ultrafarma;R;5.57;Dipirona;Neo Quimica;Vermelha
-Ultrafarma;U;1.69;Estetoscopio;Littman
-Ultrafarma;U;6.78;Medidor de pressao;Littman
-Americanas;C;5.85;Batom;Avon;restaurador
-Drogasil;C;3.60;Xampu;Natura;simples
-Ultrafarma;U;4.27;Medidor de pressao;Littman
-Drogasil;C;6.92;Desodorante;Jequiti;restaurador
-Drogasil;U;5.69;Estetoscopio;Premium
-Ultrafarma;C;3.74;Xampu;Natura;restaurador
-Americanas;U;8.35;Medidor de pressao;Premium
-Americanas;C;7.29;Batom;Jequiti;anti-bacteriano
-Drogasil;C;1.55;Xampu;Avon;simples
-Ultrafarma;U;5.34;Medidor de pressao;Spirit
-Ultrafarma;R;7.77;Dipirona;Teuto;Vermelha
-Americanas;R;2.7;Esquizofrenol;EMS;Preta
-Drogasil;U;7.99;Estetoscopio;Premium
-Ultrafarma;U;7.29;Seringa;Premium
-Americanas;C;5.83;Xampu;Jequiti;simples
-Drogasil;C;1.64;Desodorante;Natura;simples
-Ultrafarma;U;4.2;Seringa;Spirit
-Americanas;C;5.68;Batom;Natura;restaurador
-Ultrafarma;U;8.3;Seringa;Premium
-Americanas;C;0.54;Batom;Jequiti;restaurador
-Americanas;R;7.67;Esquizofrenol;EMS;Preta
-Americanas;R;1.47;Esquizofrenol;Neo Quimica;Preta
-Americanas;R;5.1;Paracetamol;Teuto;MIP
-Ultrafarma;R;9.27;Paracetamol;EMS;MIP
+Drogaria Carvalho;R;2.56;Losartana potássica;Germed;Vermelha
+Drogaria Santanna;C;0.83;Desodorante;Nivea;anti-bacteriano
+Farmacia Drugstore;U;5.38;Detector fetal;Braun
+Farmadias;C;5.65;Batom;Garnier;simples
+Farmadias;R;7.37;Benegripe;Neo Quimica;MIP
+Americanas;C;3.7;Creme dental;Chanel;simples
+Drogaria Carvalho;C;0.15;Creme para mãos;Avon;anti-bacteriano
+Drogaria Carvalho;U;4.36;Seringa;Premium
+Drogaria Santanna;R;4.80;Torsilax;Eurofarma;Vermelha
+Drogaria Santanna;R;6.55;Benegripe;Butantan;MIP
+Drogaria Santanna;U;3.19;Detector fetal;Littman
+Farmanossa;C;0.69;Condicionador;Garnier;simples
+Novafarma;C;8.72;Protetor solar;Chanel;anti-bacteriano
+Drogaria Santanna;C;9.95;Desodorante;Baruel;restaurador
+Farmacia Drugstore;U;2.13;Detector fetal;Welch Allyn
+Farmacia Drugstore;U;3.32;Seringa;Sanders
+Farmanossa;U;7.69;Termômetro;Littman
+Novafarma;U;6.57;Oxímetro;Neo Química
+Drogasil;C;7.54;Loção pós barba;L'oreal;Antisséptico
+Farmanossa;C;6.33;Loção pós barba;Nivea;Antisséptico
+Novafarma;R;6.3;Cloridrato de fluoxetina;GSK;Preta
+Novafarma;R;6.5;Paracetamol;Pfizer;MIP
+Americanas;U;3.6;Estetoscopio;Spirit
+Drogaria Santanna;C;7.29;Loção pós barba;Natura;Hidratante
+Drogasil;C;6.27;Xampu;Dove;anti-bacteriano
+Drogasil;R;5.42;Torsilax;Vitamedic;Vermelha
+Ultrafarma;R;4.77;Rivotril;Aché;Preta
+Ultrapopular;U;7.81;Oxímetro;Spirit
+Drogaria Carvalho;U;7.53;Desfibrilador;Sanders
+Drogasil;U;6.49;Termômetro;Spirit
+Farmacia Drugstore;R;9.13;Dramin;Germed;Vermelha
+Farmacia Drugstore;U;3.31;Seringa;Littman
+Farmadias;U;4.55;Seringa;Premium
+Farmanossa;C;4.95;Batom;Dove;restaurador
+Ultrafarma;R;4.24;Paracetamol;Aché;MIP
+Drogaria Carvalho;U;4.5;Eletrocardiógrafo;Neo Química
+Ultrafarma;U;1.22;Termômetro;Welch Allyn
+Drogaria Carvalho;R;6.59;Benegripe;Germed;MIP
+Drogaria Santanna;R;4.89;Losartana potássica;EMS;Vermelha
+Farmadias;R;1.70;Paracetamol;Eurofarma;MIP
+Farmadias;R;7.6;Dimorf;Astrazeneca;Preta
+Farmanossa;R;8.54;Rivotril;EMS;Preta
+Novafarma;U;9.59;Oxímetro;Premium
+Ultrafarma;R;1.14;Dramin;GSK;Vermelha
+Drogaria Carvalho;C;7.95;Creme dental;Dove;Hidratante
+Novafarma;R;8.92;Benegripe;Germed;MIP
+Ultrafarma;C;6.80;Batom;Chanel;restaurador
+Farmacia Drugstore;C;5.85;Creme para mãos;L'oreal;simples
+Farmadias;C;0.63;Condicionador;Natura;anti-bacteriano
+Novafarma;C;5.9;Desodorante;L'oreal;restaurador
+Novafarma;R;1.5;Torsilax;Hypera Pharma;Vermelha
+Americanas;U;8.30;Medidor de pressao;Neo Química
+Ultrapopular;C;9.96;Xampu;Dove;Hidratante
+Drogaria Carvalho;R;8.23;Benegripe;Hypera Pharma;MIP
+Novafarma;C;1.60;Batom;Ivone;simples
+Ultrafarma;R;3.34;Dipirona;Aché;MIP
+Ultrapopular;U;8.93;Estetoscopio;Premium
+Drogaria Carvalho;C;7.80;Xampu;Dove;anti-bacteriano
+Drogaria Santanna;R;2.60;Dramin;Eurofarma;Vermelha
+Ultrapopular;U;5.25;Desfibrilador;Spirit
+Drogaria Carvalho;R;8.9;Cloridrato de fluoxetina;Pfizer;Preta
+Farmadias;U;6.59;Detector fetal;Spirit
+Ultrafarma;R;2.30;Torsilax;Medquímica;Vermelha
+Ultrafarma;U;1.72;Oxímetro;Braun
+Drogasil;R;9.30;Cloridrato de fluoxetina;Astrazeneca;Preta
+Farmanossa;C;9.18;Creme dental;Baruel;anti-bacteriano
+Farmanossa;C;7.16;Protetor solar;Avon;Hidratante
+Drogaria Carvalho;C;6.40;Creme dental;Natura;restaurador
+Drogaria Santanna;R;7.53;Dramin;Merck;Vermelha
+Farmanossa;U;5.80;Oxímetro;Spirit
+Ultrafarma;R;5.36;Dimorf;Eurofarma;Preta
+Ultrapopular;R;1.90;Torsilax;Medquímica;Vermelha
+Drogaria Carvalho;C;7.75;Desodorante para pés;Dove;Hidratante
+Novafarma;R;7.65;Rivotril;Astrazeneca;Preta
+Ultrapopular;U;7.86;Eletrocardiógrafo;Littman
+Farmanossa;U;5.55;Seringa;Sanders
+Farmacia Drugstore;U;7.62;Termômetro;Sanders
+Novafarma;U;9.95;Detector fetal;Braun
+Farmacia Drugstore;U;9.75;Desfibrilador;Littman
+Ultrapopular;C;6.70;Creme dental;Neutrogena;restaurador
+Farmacia Drugstore;U;8.91;Detector fetal;Braun
+Farmadias;R;7.16;Benegripe;Aché;MIP
+Novafarma;R;8.38;Rivotril;Teuto;Preta
+Farmacia Drugstore;R;6.20;Cloridrato de fluoxetina;Eurofarma;Preta
+Farmanossa;U;4.99;Medidor de pressao;Neo Química
+Americanas;U;4.32;Termômetro;Littman
+Ultrafarma;R;3.39;Paracetamol;GSK;MIP
+Ultrafarma;R;1.74;Torsilax;Pfizer;Vermelha
+Drogaria Santanna;R;7.57;Benegripe;Astrazeneca;MIP
+Drogasil;R;5.26;Benegripe;Eurofarma;MIP
+Drogaria Santanna;U;6.16;Desfibrilador;Sanders
+Ultrapopular;R;1.54;Dramin;Medquímica;Vermelha
+Drogaria Carvalho;C;3.81;Xampu;Ivone;anti-bacteriano
+Drogaria Carvalho;U;2.2;Estetoscopio;Welch Allyn
+Farmacia Drugstore;R;2.58;Dimorf;Butantan;Preta
+Farmadias;C;6.60;Desodorante para pés;Dove;Antisséptico
+Novafarma;C;7.56;Creme para mãos;Ivone;Antisséptico
+Novafarma;R;5.80;Dipirona;GSK;MIP
+Novafarma;U;0.87;Medidor de pressao;Neo Química
+Ultrafarma;C;7.53;Xampu;Chanel;anti-bacteriano
