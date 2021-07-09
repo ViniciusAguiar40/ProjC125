@@ -60,5 +60,7 @@ public class App {
 				System.out.println(e.getMessage());
 			}	
 		}while(opcao!=4);
+		
+		scanner.close();
 	}
 }
