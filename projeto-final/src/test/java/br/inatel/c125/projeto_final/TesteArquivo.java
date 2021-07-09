@@ -38,7 +38,7 @@ public class TesteArquivo {
             for (String prod : Lista) {
                 String leitura[]= prod.split(";");
 
-                // Todos tem no minimo 5 informacoes
+                // Tds tem no minimo 5 informacoes
                 assertTrue(leitura.length >= 5);
 
                 // Tem que ser tipo R, U ou C 
