@@ -1,12 +1,11 @@
 package br.inatel.c125.projeto_final.farma;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import br.inatel.c125.projeto_final.produtos.Produto;
 
 public class ListaFarmacias {
-    private List<Farmacia> farmacias = new ArrayList<Farmacia>();
+    private List<Farmacia> farmacias;
 
     public ListaFarmacias(List<Farmacia> farmacias) {
         this.farmacias = farmacias;

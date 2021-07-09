@@ -26,7 +26,7 @@ public class App {
 				System.out.println("3- Mostrar todos os produtos disponíveis");
 				System.out.println("4- Sair\n");
 				opcao = Integer.parseInt((scanner.nextLine()));
-				
+
 				switch (opcao) {
 					case 1:
 						System.out.println("Digite o nome da farmácia");
@@ -53,6 +53,7 @@ public class App {
 					default:
 						throw new EntradaInesperada();
 				}
+				System.out.println("__________________________________________________________________________________________________________________________");
 			}catch (NumberFormatException e) {
 				System.out.println("Digite apenas o número da opção\n");
 			}catch (EntradaInesperada e){
