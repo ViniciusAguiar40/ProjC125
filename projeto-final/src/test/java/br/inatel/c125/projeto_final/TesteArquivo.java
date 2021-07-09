@@ -1,8 +1,7 @@
 package br.inatel.c125.projeto_final;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotNull;
-import static org.junit.Assert.assertNull;
+import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertTrue;
 
 import java.io.IOException;
@@ -24,7 +23,7 @@ public class TesteArquivo {
     public void verificaLinhaNaFormatacaoCorreta(){
         try{
             List <String> Lista = Files.readAllLines(arquivo);
-            assertNotNull(Lista);
+            assertNotEquals(0, Lista.size());
             for (String prod : Lista) {
                 String leitura[]= prod.split(";");
                 
@@ -44,12 +43,12 @@ public class TesteArquivo {
                     Float.parseFloat(leitura[2]);
                 }    
                 catch(NumberFormatException e){
-                    assertTrue(false);
+                    throw new AssertionError();
                 }
             }
         }
         catch(IOException e){
-            assertTrue(false);
+            throw new AssertionError();
         }
     }
 }
