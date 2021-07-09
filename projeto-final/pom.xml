@@ -7,7 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <name>projeto-final</name>
-    <description>Add project description here</description>
+    <description>Projeto para a disciplina de Java e POO do Inatel</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
