@@ -12,7 +12,7 @@ import java.nio.file.Paths;
 public class App {
 	public static void main(String[] args) {
 
-		Path arquivo = Paths.get("projeto-final/farmacia.txt");
+		Path arquivo = Paths.get("farmacia.txt");
 
 		ListaFarmacias farmacias = new ListaFarmacias(LeArquivo.preencheFarmacias(arquivo)); // Lendo o arquivo e criando a lista
 
